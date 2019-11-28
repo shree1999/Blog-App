@@ -1,0 +1,19 @@
+a {
+  color: white;
+}
+
+.container .lead {
+  color: grey;
+}
+
+.card-body .fieldInfo{
+  color: rgb(251, 174, 44);
+  font-family: Bitter, Georgia, "Times New Roman", serif;
+  font-size: 1.2em;
+}
+
+.fieldInfo {
+  color: rgb(251, 174, 44);
+  font-family: Bitter, Georgia, "Times New Roman", serif;
+  font-size: 1.2em;
+}
